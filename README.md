@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Neerta 
 - 👀 I’m interested in learning about development 
 - 🌱 I’m currently a student of BCA
-- 📫 How to reach me ...
+
 
 <!---
 Neerta/Neerta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
